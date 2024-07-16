@@ -6,13 +6,12 @@
 	"homeURL": "https://github.com/zaicik/fpp-midi-clone",
 	"srcURL": "https://github.com/zaicik/fpp-midi-clone.git",
 	"bugURL": "https://github.com/zaicik/fpp-midi-clone/issues",
-    "versions": [
+    	"versions": [
         {
-            "minFPPVersion": "2.0",
-            "maxFPPVersion": "0",
-            "branch": "master",
-            "sha": "",
-            "allowUpdates": 1
+        	"minFPPVersion": "7.0",
+        	"maxFPPVersion": "7.99",
+        	"branch": "master",
+		"allowUpdates": 0
         }	
 	]
 }
