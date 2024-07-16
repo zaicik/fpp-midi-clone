@@ -1,0 +1,38 @@
+{
+	"repoName": "fpp-midi",
+	"name": "FPP MIDI",
+	"author": "Daniel Kulp",
+	"description": "YZ mod - Listener for MIDI messages to trigger FPP Commands",
+	"homeURL": "https://github.com/zaicik/fpp-midi-clone",
+	"srcURL": "https://github.com/zaicik/fpp-midi-clone.git",
+	"bugURL": "https://github.com/zaicik/fpp-midi-clone/issues",
+	"versions": [
+        {
+            "minFPPVersion": "4.0",
+            "maxFPPVersion": "5.99",
+            "branch": "master",
+            "sha": "0726df4963d7d334cb3750c325b46f83a926c2c8"
+        },
+        {
+            "minFPPVersion": "6.0",
+            "maxFPPVersion": "6.99",
+            "branch": "master",
+            "sha": "9131ff8d34e52bf5c1fe5577cca595d13a401f28",
+            "allowUpdates": 0
+        },
+        {
+            "minFPPVersion": "7.0",
+            "maxFPPVersion": "7.99",
+            "branch": "master",
+            "sha": "",
+            "allowUpdates": 1
+        },
+	{
+            "minFPPVersion": "8.0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": "",
+            "allowUpdates": 1
+        }	
+	]
+}
